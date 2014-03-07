@@ -1,0 +1,21 @@
+PREPARATION
+
+MCD/MLD 				 (JB  ) [OK]
+SqueletteParPages  		 (JB  ) [OK]
+ArchitectureMCV 		 (JB  ) [OK]
+
+MaquetteEcrans 			 (Manu) [EC] 07/10
+
+ObjectifFondamentaux 	 (JO  ) [OK]
+
+
+Developpement
+
+ArboDesPages		 	 (JO  ) [OK] 10/10
+CreateClass		 	 	 (JB  ) [OK] 03/03
+FormulaireContact(form)  (JO  ) [OK] 
+
+
+
+RECETTE
+

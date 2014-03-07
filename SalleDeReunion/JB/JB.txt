@@ -1,0 +1,19 @@
+[07/03-10:30]
+ADD SqueletteParPage  (./SalleDeReunion/JB)
+ADD MCD  			  (./SalleDeReunion/JB)
+
+[07/03-10:40]
+END SqueletteParPage  (./SalleDeReunion/JB)
+END MCD				  (./SalleDeReunion/JB)
+
+[07/03-11:30]
+ADD ArchitectureMCV   (./SalleDeReunion/JB)
+
+[07/03-14:30]
+END ArchitectureMCV   (./SalleDeReunion/JB)
+
+[07/03-15:00]
+MaJ SqueletteParPage  (./SalleDeReunion/JB)
+
+[07/03-15:10]
+END CreationClass   (./application/models/My/Entity)
