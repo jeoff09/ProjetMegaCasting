@@ -1,0 +1,12 @@
+[07/03-10:30]
+ADD MaquetteEcran (./SalleDeReunion/MANU)
+
+10:30 début maquette
+11:00  page d'accueil, done
+11:40 page liste d'annonce / annonce, done
+12:00 page inscription, done
+12:30 page connexion, done
+14:00 page métier, done
+14:20 synchro
+15:15 page profil finie, maj page inscription, done
+16:00 maquetage fini

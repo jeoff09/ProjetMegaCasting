@@ -1,0 +1,10 @@
+Page: 7/9
+- Acceuil			[OK]
+- ListeDesOffres		[OK]
+- OffreSelect			[OK]
+- Inscription			[OK]
+- Metier			[OK]
+- Profil			[OK]
+- Connexion			[OK]
+- Contact			[OK]
+- Annoncer			[OK]
